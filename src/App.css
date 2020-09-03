@@ -33,3 +33,11 @@
   display: flex;
   justify-content: center;
 }
+
+
+
+@media(max-width:400px){
+  .app__postsRight {
+    display: none;
+  }
+}
